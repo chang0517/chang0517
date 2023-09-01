@@ -4,10 +4,6 @@
 - I'm a AI engineer studying at Sungkyunkwan University
 
 
-**My Blog**
-- https://wonny.space/
-- https://brunch.co.kr/@hee072794
-
 <!--
 **wonny-log/wonny-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
